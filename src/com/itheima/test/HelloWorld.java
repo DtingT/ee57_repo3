@@ -6,8 +6,8 @@ package com.itheima.test;
  * @author: Mr.Wang
  * @create: 2019-05-16 20:18
  **/
-public class HellloWorld {
+public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("HelloWorid");
+        System.out.println("HelloWorld");
     }
 }
